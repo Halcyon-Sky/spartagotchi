@@ -28,15 +28,7 @@ Programmed using MIT App Inventor
 
 
 
-###### Sounds:
-
-
-
 ###### Fonts:
 
 * BIG\_BOTTOM\_CARTOON\_NORMAL from fontlibrary.org/en/font/big-bottom-cartoon-normal by user Karen B. Jones
-
-###### 
-
-###### Extensions:
 
